@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arcesoftware
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning qiskit at IBM Quantum Labs
-- 💞️ I’m looking to collaborate on Python Data Science
+- 💞️ I’m looking to collaborate on whatever Python project you are working on
 - 📫 How to reach me? Send an emial at: arcevargasjuan@gmail.com
 
 <!---
