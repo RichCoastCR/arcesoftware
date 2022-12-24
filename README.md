@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning qiskit at IBM Quantum Labs
 - 💞️ I’m looking to collaborate on whatever Python project you are working on
-- 📫 How to reach me? Send an emial at: arcevargasjuan@gmail.com
+- 📫 How to reach me? https://www.patreon.com/richcoast
